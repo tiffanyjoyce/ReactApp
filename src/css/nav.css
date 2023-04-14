@@ -1,0 +1,19 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    background-color: rgb(222, 150, 246);
+    text-decoration: none;
+    height: 40px;
+    text-align: left;
+    
+}
+.home{
+    margin: 60px;
+    text-decoration: none;
+    color: purple;
+}
+.shop{
+    text-decoration: none;
+    color: purple;
+}
